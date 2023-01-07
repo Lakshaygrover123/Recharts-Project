@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.App :is(h1){
+  text-align: center;
+  color: red;
+}
+
